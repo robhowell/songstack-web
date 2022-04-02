@@ -17,8 +17,8 @@ export default function Home() {
         </h1>
 
         <h1 className="text-3xl font-bold">
-      Hello world!
-    </h1>
+          Hello world!
+        </h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
